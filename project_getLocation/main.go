@@ -22,6 +22,7 @@ func main() {
 	fmt.Println("master修改main 第三处")
 	fmt.Println("master修改main 第四处")
 	conf.Init()
+	fmt.Println("zgj_test修改main")
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}
 	e.Use(utils.MidAuth)
