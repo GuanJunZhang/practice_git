@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"fmt"
 	"getLocation/conf"
 	"getLocation/route"
 	"getLocation/utils"
@@ -16,7 +17,10 @@ import (
 )
 
 func main() {
-	
+	fmt.Println("master修改main 第一处")
+	fmt.Println("master修改main 第二处")
+	fmt.Println("master修改main 第三处")
+	fmt.Println("master修改main 第四处")
 	conf.Init()
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}

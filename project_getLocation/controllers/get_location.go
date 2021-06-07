@@ -2,8 +2,10 @@ package controllers
 
 import (
 	// "fmt"
+	"fmt"
 	"getLocation/services"
 	"getLocation/utils"
+
 	// "net/http"
 
 	"github.com/go-playground/validator"
@@ -13,6 +15,7 @@ import (
 func GetLocation(ctx echo.Context) error {
 
 	validate := validator.New()
+	fmt.Println("master修改get_location 第一处")
 	getLocationStr := ctx.QueryParam("location")
 	//参数校验
 	// fmt.Println("长度=",len(getLocationStr))
