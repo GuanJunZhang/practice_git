@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"fmt"
 	"getLocation/conf"
 	"getLocation/route"
 	"getLocation/utils"
@@ -18,6 +19,7 @@ import (
 func main() {
 	
 	conf.Init()
+	fmt.Println("zgj_test修改main")
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}
 	e.Use(utils.MidAuth)
