@@ -1,0 +1,10 @@
+2021/06/01 15:46:31 [I] cfgFile= ./config.toml
+2021/06/01 15:46:47 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/06/01 15:46:47 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/06/01 15:46:47 [I] ctx= &{0xc0000c2000 0xc0000861e0 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/06/01 15:47:01 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/06/01 15:47:01 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/06/01 15:47:01 [I] ctx= &{0xc00039e000 0xc0000861e0 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/06/01 15:47:38 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/06/01 15:47:38 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/06/01 15:47:38 [I] ctx= &{0xc0000c2300 0xc000380180 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}

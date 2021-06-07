@@ -1,0 +1,72 @@
+2021/05/31 16:23:23 [I] cfgFile= ./config.toml
+2021/05/31 16:23:37 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 16:23:37 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 16:23:37 [I] ctx= &{0xc000076000 0xc00005a240 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc0001ff600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 16:28:00 [I] cfgFile= ./config.toml
+2021/05/31 16:28:20 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 16:28:20 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 16:28:20 [I] ctx= &{0xc000125500 0xc0002f28a0 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 16:28:27 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 16:28:27 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 16:28:27 [I] ctx= &{0xc0000ae000 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 16:28:38 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 16:28:38 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 16:28:38 [I] ctx= &{0xc000125800 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:05:14 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:05:14 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:05:14 [I] ctx= &{0xc000320100 0xc0002f28a0 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:05:29 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:05:29 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:05:29 [I] ctx= &{0xc000125b00 0xc0002f28a0 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:05:51 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:05:51 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:05:51 [I] ctx= &{0xc000320500 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:02 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:02 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:02 [I] ctx= &{0xc000320700 0xc0002f28a0 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:14 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:14 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:14 [I] ctx= &{0xc0000ae400 0xc0003e4000 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:21 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:21 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:21 [I] ctx= &{0xc000320b00 0xc0003e4000 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:34 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:34 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:34 [I] ctx= &{0xc0003ee100 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:45 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:45 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:45 [I] ctx= &{0xc0000ae700 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:49 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:49 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:49 [I] ctx= &{0xc0000ae800 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:50 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:50 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:50 [I] ctx= &{0xc000320c00 0xc0002f28a0 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:06:55 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:06:55 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:06:55 [I] ctx= &{0xc000320d00 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:07:02 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:07:02 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:07:02 [I] ctx= &{0xc0003ee300 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:07:37 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:07:37 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:07:37 [I] ctx= &{0xc0000aea00 0xc000086300 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 17:08:00 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 17:08:00 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 17:08:00 [I] ctx= &{0xc0000ae000 0xc0003e4000 /getLocation [] [] map[] 0x8fbc60 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 18:00:31 [I] cfgFile= ./config.toml
+2021/05/31 18:00:41 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 18:00:41 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 18:00:41 [I] ctx= &{0xc000318000 0xc00030a060 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 18:00:53 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 18:00:53 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 18:00:53 [I] ctx= &{0xc0000a5600 0xc00030a060 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 18:11:43 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 18:11:43 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 18:11:43 [I] ctx= &{0xc000136100 0xc000100240 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 18:11:50 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 18:11:50 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 18:11:50 [I] ctx= &{0xc000136400 0xc00030a9c0 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
+2021/05/31 18:51:25 [I] tokenRaw= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVaWQiOjEzLCJJcCI6IjEyNy4wLjAuMSIsImV4cCI6MjM0MDk4MDkyMywibmJmIjoxNjIwOTgwOTIzfQ.PZPiCbVrtAzeKQQo4x62opfuyJYIbKLDQstdQ6aJc-o
+2021/05/31 18:51:25 [I] claims= &{13 127.0.0.1 { 2340980923  0  1620980923 }} err= <nil>
+2021/05/31 18:51:25 [I] ctx= &{0xc000136600 0xc000100240 /getLocation [] [] map[] 0x8fcc20 map[uid:13] 0xc000239600 <nil> {{0 0} 0 0 0 0}}
