@@ -27,6 +27,8 @@ func main() {
 	e.Use(utils.MidAuth)
 	route.InitRouter(e.Router())
 
+	fmt.Println("master修改main 第五处")
+
 	//启动http server, 并监听8080端口，冒号（:）前面为空的意思就是绑定网卡所有Ip地址，本机支持的所有ip地址都可以访问。
 	// go e.Start(":8080")
 	// fmt.Println("conf.App.Http.Address=",conf.App.Http.Address)
