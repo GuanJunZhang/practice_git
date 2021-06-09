@@ -22,12 +22,9 @@ func main() {
 	fmt.Println("master修改main 第三处")
 	fmt.Println("master修改main 第四处")
 	conf.Init()
-	fmt.Println("zgj_test修改main")
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}
-	fmt.Println("zgj_develop修改main 第一处")
 	e.Use(utils.MidAuth)
-	fmt.Println("新的master分支修改")
 	route.InitRouter(e.Router())
 
 	//启动http server, 并监听8080端口，冒号（:）前面为空的意思就是绑定网卡所有Ip地址，本机支持的所有ip地址都可以访问。
@@ -39,11 +36,9 @@ func main() {
 			logs.Error(err.Error())
 		}
 	}()
-	fmt.Println("zgj_develop修改main 第二处")
 	// 开启系统信号接收通道
 	// 防止系统推出
 	c := make(chan os.Signal, 1)
-	fmt.Println("zgj_develop修改main 第三处")
 	signal.Notify(c, syscall.SIGHUP, syscall.SIGQUIT, syscall.SIGTERM, syscall.SIGINT)
 	s := <-c
 	switch s {
