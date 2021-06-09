@@ -21,6 +21,7 @@ func main() {
 	fmt.Println("master修改main 第二处")
 	fmt.Println("master修改main 第三处")
 	fmt.Println("master修改main 第四处")
+	fmt.Println("zgj_temp修改main 第四处")
 	conf.Init()
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}
