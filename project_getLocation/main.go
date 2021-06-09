@@ -31,6 +31,8 @@ func main() {
 	fmt.Println("zgj_temp修改main 第六处")
 	fmt.Println("zgj_temp1修改main 第一处")
 	fmt.Println("zgj_temp1修改main 第二处")
+	fmt.Println("zgj_temp修改main 第七处")
+	fmt.Println("zgj_temp修改main 第八处")
 	//启动http server, 并监听8080端口，冒号（:）前面为空的意思就是绑定网卡所有Ip地址，本机支持的所有ip地址都可以访问。
 	// go e.Start(":8080")
 	// fmt.Println("conf.App.Http.Address=",conf.App.Http.Address)
