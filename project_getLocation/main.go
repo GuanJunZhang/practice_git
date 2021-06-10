@@ -29,6 +29,8 @@ func main() {
 	e.Validator = &CustomValidator{validator: validator.New()}
 	e.Use(utils.MidAuth)
 	route.InitRouter(e.Router())
+	fmt.Println("zgj_temp3修改main 第一处")
+	fmt.Println("zgj_temp3修改main 第二处")
 	fmt.Println("zgj_temp修改main 第五处")
 	fmt.Println("zgj_temp修改main 第六处")
 	fmt.Println("zgj_temp1修改main 第一处")
