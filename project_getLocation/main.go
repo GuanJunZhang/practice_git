@@ -17,7 +17,7 @@ import (
 )
 
 func main() {
-	fmt.Println("zgj_temp5修改main 第一处")
+	fmt.Println("zgj_temp6修改main 第一处")
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}
 	e.Use(utils.MidAuth)
