@@ -33,8 +33,8 @@ func main() {
 	fmt.Println("zgj_temp3修改main 第二处")
 	fmt.Println("zgj_temp修改main 第五处")
 	fmt.Println("zgj_temp修改main 第六处")
-	fmt.Println("zgj_temp1修改main 第一处")
-	fmt.Println("zgj_temp1修改main 第二处")
+	fmt.Println("zgj_temp4修改main 第一处")
+	fmt.Println("zgj_temp4修改main 第二处")
 	fmt.Println("zgj_temp修改main 第七处")
 	fmt.Println("zgj_temp修改main 第八处")
 
