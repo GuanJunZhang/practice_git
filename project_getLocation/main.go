@@ -17,27 +17,11 @@ import (
 )
 
 func main() {
-	fmt.Println("master修改main 第一处")
-	fmt.Println("master修改main 第二处")
-	fmt.Println("master修改main 第三处")
-	fmt.Println("master修改main 第四处")
-	fmt.Println("zgj_temp修改main 第四处")
-	conf.Init()
-	fmt.Println("zgj_temp2修改main 第一处")
-	fmt.Println("zgj_temp2修改main 第二处")
+	fmt.Println("zgj_temp5修改main 第一处")
 	e := echo.New()
 	e.Validator = &CustomValidator{validator: validator.New()}
 	e.Use(utils.MidAuth)
 	route.InitRouter(e.Router())
-	fmt.Println("zgj_temp3修改main 第一处")
-	fmt.Println("zgj_temp3修改main 第二处")
-	fmt.Println("zgj_temp修改main 第五处")
-	fmt.Println("zgj_temp修改main 第六处")
-	fmt.Println("zgj_temp4修改main 第一处")
-	fmt.Println("zgj_temp4修改main 第二处")
-	fmt.Println("zgj_temp修改main 第七处")
-	fmt.Println("zgj_temp修改main 第八处")
-
 	//启动http server, 并监听8080端口，冒号（:）前面为空的意思就是绑定网卡所有Ip地址，本机支持的所有ip地址都可以访问。
 	// go e.Start(":8080")
 	// fmt.Println("conf.App.Http.Address=",conf.App.Http.Address)
